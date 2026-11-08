@@ -1,0 +1,2 @@
+Cycle,North,South,East,West,Emergency,Average Density,Peak Congestion,Signal Direction,Signal Duration
+1,32,41,44,39,"('North', 'East')",39.0,44,East,44
