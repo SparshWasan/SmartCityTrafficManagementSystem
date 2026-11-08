@@ -145,8 +145,3 @@ Every cycle persists the following telemetry in `traffic_logs.csv`:
 - **Signal Duration**: Allotted green signal time (seconds)
 
 ---
-
-## 👤 Author
-
-- **Sparsh Wasan**
-- SAP ID: 590011555 (Roll No: 24)
